@@ -1,0 +1,30 @@
+.body {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-image: url('https://media1.tenor.com/m/BRDnAfz1WfsAAAAd/hacker.gif');
+}
+#background-navbar {
+  box-shadow: 2px 3px 4px;
+  background-color: #FAFAFA;
+  border-radius: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5px;
+}
+#jumbotron {
+  box-shadow: -5px 6px 7px black;
+  border-radius: 20px;
+  background-color: #FAFAFA;
+  margin-top: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#mtest {
+  background-color: #FAFAFA;
+  box-shadow: 6px 7px -8px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
